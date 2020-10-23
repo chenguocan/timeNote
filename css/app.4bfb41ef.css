@@ -1,0 +1,1 @@
+*{box-sizing:border-box}*,:after,:before{margin:0;padding:0}button,input{background:transparent;border:none;outline:none}li,ol,ul{list-style:none}.clearfix:after{content:"";display:block;clear:both}.clearfix{zoom:1}#app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#2c3e50}
